@@ -11,9 +11,6 @@ Designed for **quick sketches**, it offers a smooth drawing experience with esse
 - Simple color and brush size selectors.  
 - Undo and clear functions for flexibility.    
 
-✅ **Responsive Design:**  
-- Works on both desktop and mobile devices.  
-- Smooth and fluid drawing experience.
 
 ---
 
