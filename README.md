@@ -1,6 +1,6 @@
-# 🎯 wtbd.io – Minimal Whiteboard App
+# 🎯 wtbd.live – Minimal Whiteboard App
 
-**wtbd.io** is a lightweight, no-bloat whiteboard web app built with **HTML, CSS, and JavaScript**.  
+**wtbd.live** is a lightweight, no-bloat whiteboard web app built with **HTML, CSS, and JavaScript**.  
 Designed for **quick sketches**, it offers a smooth drawing experience with essential tools only—no unnecessary features.
 
 ---
@@ -26,7 +26,7 @@ Designed for **quick sketches**, it offers a smooth drawing experience with esse
 
 ### 🌐 Remote Deployment
 - **Frontend:** Deployed on **GitHub Pages**  
-- Access the live app at:  https://wtbd.io
+- Access the live app at:  https://wtbd.live
 
 ---
 
