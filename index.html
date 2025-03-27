@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A very minimal whiteboard for quick idea sketches">
+    <meta name="keywords" content="whiteboard, drawing, sketch, canvas">
+    <title>wtbd.io</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1 class="logo-text">wtbd.io</h1>
+    </header>
+
+    <main>
+        <nav class="toolbar" role="toolbar" aria-label="Drawing tools">
+            <div class="color-picker-container">
+                <input type="color" id="colorPicker" value="#000000" aria-label="Color picker">
+                <label for="colorPicker" aria-label="Selected color"></label>
+            </div>
+            <input type="range" id="sizePicker" min="1" max="20" value="5" aria-label="Brush size">
+            <button onclick="clearCanvas()" aria-label="Clear canvas">Clear</button>
+            <button onclick="undo()" aria-label="Undo last action">Undo</button>
+        </nav>
+
+        <canvas id="whiteboard" role="img" aria-label="Drawing canvas"></canvas>
+
+        <footer class="instructions">
+            <p>
+                <strong>Instructions:</strong>
+                Scroll mouse wheel to adjust brush size | Press spacebar to cycle through colors
+            </p>
+        </footer>
+    </main>
+
+    <script src="script.js" defer></script>
+</body>
+
+</html>
