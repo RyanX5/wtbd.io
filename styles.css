@@ -93,9 +93,14 @@ label[for="colorPicker"]:hover {
     transform: translateX(-50%);
     text-align: center;
     z-index: 1;
-    color: #333;
+    color: #fff;
     font-size: 24px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+    padding-left: 12px;
+    padding-right: 12px;
+    border-radius: 10px;
+    background: linear-gradient(to right, purple, violet);
+
 }
 
 /* Instructions styles */
