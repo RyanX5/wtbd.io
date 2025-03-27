@@ -37,7 +37,6 @@ Designed for **quick sketches**, it offers a smooth drawing experience with esse
    - 🖌️ **Draw** → Click and drag.  
    - 🔥 **Undo** → Press the **Undo** button.  
    - 🧹 **Clear** → Press the **Clear** button.  
-4. Share the **URL** with others for real-time collaboration.  
 
 ---
 
