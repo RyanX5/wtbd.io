@@ -58,5 +58,5 @@ Feel free to use, modify, and distribute this project.
 ### 🔥 Author
 👨‍💻 **RyanX5**  
 GitHub: [RyanX5](https://github.com/RyanX5)  
-Website: [wtbd.io](https://wtbd.live)
+Website: [wtbd.live](https://wtbd.live)
 
